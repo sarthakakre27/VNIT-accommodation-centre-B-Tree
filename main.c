@@ -1,11 +1,3 @@
-/*
-	Name - Sarthak Akre
-	En no- BT19CSE099
-*/
-/*the remove duplicates function is skipped as in trees during insert first serach is happening
-so we can just check for the duplicate entry and not allow for it to enter at first place as 
-against the cases of Array and Linked List
-*/
 #include"BT19CSE099-Assign2-header.h"
 extern int find;
 
