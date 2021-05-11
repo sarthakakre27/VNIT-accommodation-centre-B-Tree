@@ -1,8 +1,5 @@
-/*
-	Name - Sarthak Akre
-	En no- BT19CSE099
-*/
-#include"BT19CSE099-Assign2-header.h"
+
+#include"header.h"
 int find = 0;
 
 //this function creates a new tree node and initializes all the child pointers to NULL
