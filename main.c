@@ -1,4 +1,4 @@
-#include"BT19CSE099-Assign2-header.h"
+#include"header.h"
 extern int find;
 
 int main()
