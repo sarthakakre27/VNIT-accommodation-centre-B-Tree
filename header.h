@@ -1,7 +1,3 @@
-/*
-	Name - Sarthak Akre
-	En no- BT19CSE099
-*/
 #include<stdio.h>
 #include<string.h>
 #include<math.h>
